@@ -64,6 +64,7 @@ ShowAllRollsButton.addEventListener('click', function () {
         console.log
         counter += 6
     }
+
 })
 
 // TO DO 2:clicking the "RESET" button should reset all the shot and goal counter,
